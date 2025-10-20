@@ -22,11 +22,11 @@ Hello, my name is Freddi. I was born in Berlin and lived here until my early twe
 
 # Hobbies in my pastime
 
-🎧Music
-🚴Sports (Running, Fitness, Bouldering)
-📱Doomscrolling
-🍤Cooking
-👯Clubbing
+- 🎧Music
+- 🚴Sports (Running, Fitness, Bouldering)
+- 📱Doomscrolling
+- 🍤Cooking
+- 👯Clubbing
 
 
 <iframe
