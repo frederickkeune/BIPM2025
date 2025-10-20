@@ -4,12 +4,14 @@ Hello, my name is Freddi. I was born in Berlin and lived here until my early twe
 
 # Academic Journey
 
-| Period         | Degree                                           | Institution                     | Location   |
-|----------------|--------------------------------------------------|----------------------------------|-------------|
-| 2009–2017      | German Abitur and French Baccalauréat            | Lycée Français de Berlin         | Berlin      |
-| 2020–2024      | B.Sc. Digital Business Management                | Hochschule Fresenius Heidelberg  | Heidelberg  |
-| 2024–2025      | M.Sc. Economics (Drop-out)                       | Fernuniversität Hagen            | Hagen       |
-| 2025–Present   | M.Sc. Business Intelligence & Process Management | HWR Berlin                       | Berlin      |
+| Period         | Degree                                           | Institution                      | Location       |
+|----------------|--------------------------------------------------|----------------------------------|----------------|
+| 2009–2017      | German Abitur and French Baccalauréat            | Lycée Français de Berlin         | Berlin         |
+| 2020–2024      | B.Sc. Digital Business Management                | Hochschule Fresenius Heidelberg  | Heidelberg     |
+| 2022–2023      | Semester Abroad                                  | Pace University                  | New York City  |
+| 2024–2025      | M.Sc. Economics (Drop-out)                       | Fernuniversität Hagen            | Hagen          |
+| 2025–Present   | M.Sc. Business Intelligence & Process Management | HWR Berlin                       | Berlin         |
+
 
 # Professional Journey
 
